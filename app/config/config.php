@@ -1,9 +1,9 @@
 <?php
 
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','mvc');
+define('DB_HOST','YOUR_HOST');
+define('DB_USER','YOUR_USERNAME');
+define('DB_PASS','YOUR_PASSWORD');
+define('DB_NAME','YOUR_DBNAME');
 
 
 
